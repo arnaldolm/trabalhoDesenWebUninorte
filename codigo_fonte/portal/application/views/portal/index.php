@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt">
     <head>
         <meta charset="UTF-8">
         <title>Portal de Notícias do Odorico</title>
@@ -91,7 +92,7 @@
                 <div class="w3-third w3-hide-medium w3-hide-small w3-sidebar w3-light-grey">
                     <div class="w3-white w3-text-grey w3-card-4">
                         <div class="w3-display-container">
-                            <img src="/portal/images/odorico.jpg" alt="Imagem do Odorico Paraguaçú" style="width:100%" alt="Avatar">
+                            <img src="/portal/images/odorico.jpg" alt="Imagem do Odorico Paraguaçú" style="width:100%">
                         </div>
                         <div class="w3-container">
                             <h4><b>Odorico Paraguaçú</b></h4>
